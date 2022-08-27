@@ -1,0 +1,18 @@
+Commands descriptions
+
+1. cls - clear the cmd screen
+2. dir - list of all the directories/libraries/files in a given directory
+3. cd.. - change to the parent directory
+4. cd anyName - change to the selected directory 
+5. md anyName - make directory with the selected name
+6. tree - visual hirerachy list of the directories.
+7. help - when combined with any command, showing all the possible options to use it.
+8. /o - order list
+9. rmdir - remove directory
+10. a > b - the ">" sign insert the a command result into b.
+11. copy a b - copy a to b
+12. del - delete file
+13. move a b - move a to b
+14. type anyName - show the selected file content in the cmd.
+15. attrib - all the options to change a file attributes
+16. dir */?/etc. - filters for search in a given directory.
